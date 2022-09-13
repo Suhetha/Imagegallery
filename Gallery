@@ -1,0 +1,39 @@
+html>
+<title>W3</title>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body,h1 {
+font-family:sans-serif
+color:green;
+}
+h2 {
+font-size:30px;
+text-decoration:underline;}
+</style>
+<body>
+<h1><b><center>PHOTO GALLERY</b></h1><br>
+<h2><i><center>Let's explore the fraganance of JAPAN</center></i></h2>
+<div class="w3-row" id="myGrid" style="margin-bottom:128px">
+<div class="w3-third">
+<img src="ja1.jpg" style="width:70%">
+<img src="mo1.jpg" style="width:100%">
+<img src="house.jpg" style="width:70%">
+<img src="hotel.jpg" style="width:100%">
+<img src="gate.jpg" style="width:70%">
+<img src="fe.jpg" style="width:100%">
+</div>
+<div class="w3-third">
+<img src="ea.jpg" style="width:90%">
+<img src="cu.jpg" style="width:100%">
+<img src="sun.jpg" style="width:80%">
+<img src="to3.jpg" style="width:100%">
+<img src="vi.jpg" style="width:90%">
+</div>
+<div class="w3-third">
+<img src="vib.jpg" style="width:100%">
+<img src="che.jpg" style="width:100%">
+<img src="a.jpg" style="width:100%">
+</div>
+</div>
+</body>
+</html>
